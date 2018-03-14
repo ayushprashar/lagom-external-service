@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/emoployee-api/emoployee-api.iml" filepath="$PROJECT_DIR$/emoployee-api/emoployee-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-impl/employee-impl.iml" filepath="$PROJECT_DIR$/employee-impl/employee-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagom-crud.iml" filepath="$PROJECT_DIR$/lagom-crud.iml" />
+    </modules>
+  </component>
+</project>
